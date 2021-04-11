@@ -207,3 +207,6 @@ jobs:
         with:
           name: FriendlyWrt_NanoPi-R2S RK3328 v19.07
           path: ./artifact/
+          
+          watch:   
+            types: started
